@@ -1,0 +1,1 @@
+window.PG_SUPABASE={"url": "https://hlfzpablkacopraixpny.supabase.co", "anonKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImhsZnpwYWJsa2Fjb3ByYWl4cG55Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTEzNDI0NzcsImV4cCI6MjEwNjkxODQ3N30.NctZGG5P9W0VDGYTqzrUZ5hQH-rnbVXV3k4CR_xkr6s"};
